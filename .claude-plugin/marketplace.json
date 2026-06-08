@@ -1,0 +1,48 @@
+{
+  "name": "aeo-toolkit",
+  "owner": {
+    "name": "Jason Stanley",
+    "url": "https://github.com/jstanx"
+  },
+  "metadata": {
+    "description": "Answer Engine Optimization (AEO) skills \u2014 get a brand surfaced, cited, and recommended by AI assistants and answer engines.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "aeo-toolkit",
+      "description": "A growing, end-to-end library of Answer Engine Optimization skills: strategy, content, authority, technical, per-engine, and measurement.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/aeo-foundation",
+        "./skills/prompt-research",
+        "./skills/ai-visibility-audit",
+        "./skills/competitor-ai-analysis",
+        "./skills/answer-engineering",
+        "./skills/evidence-and-citations",
+        "./skills/content-freshness",
+        "./skills/comparison-content",
+        "./skills/multimodal-aeo",
+        "./skills/claim-accuracy",
+        "./skills/entity-optimization",
+        "./skills/author-authority",
+        "./skills/digital-pr",
+        "./skills/community-and-reviews",
+        "./skills/ai-crawler-access",
+        "./skills/structured-data",
+        "./skills/ai-retrievability",
+        "./skills/llms-txt",
+        "./skills/ai-capability-signaling",
+        "./skills/crawler-log-analysis",
+        "./skills/perplexity-optimization",
+        "./skills/chatgpt-optimization",
+        "./skills/google-ai-overviews-optimization",
+        "./skills/gemini-optimization",
+        "./skills/claude-optimization",
+        "./skills/ai-visibility-tracking",
+        "./skills/ai-referral-analytics"
+      ]
+    }
+  ]
+}

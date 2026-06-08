@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+node_modules/
+.env
+.env.*
+
+# internal tooling — kept local, not published
+.dev/
