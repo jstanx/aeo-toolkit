@@ -12,6 +12,8 @@
     {
       "name": "aeo-toolkit",
       "description": "A growing, end-to-end library of Answer Engine Optimization skills: strategy, content, authority, technical, per-engine, and measurement.",
+      "homepage": "https://github.com/jstanx/aeo-toolkit",
+      "repository": "https://github.com/jstanx/aeo-toolkit",
       "source": "./",
       "strict": false,
       "skills": [

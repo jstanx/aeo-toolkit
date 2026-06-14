@@ -2,6 +2,8 @@
   "name": "aeo-toolkit",
   "description": "A growing library of Answer Engine Optimization (AEO) skills \u2014 practical playbooks for getting a brand surfaced, cited, and recommended by AI assistants and answer engines like ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews.",
   "version": "0.1.0",
+  "homepage": "https://github.com/jstanx/aeo-toolkit",
+  "repository": "https://github.com/jstanx/aeo-toolkit",
   "author": {
     "name": "Jason Stanley",
     "url": "https://github.com/jstanx"
